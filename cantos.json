@@ -2,6 +2,30 @@
     "titulo": "Misa Dominical - Capilla del Sagrado Corazón de Jesús",
     "fecha": "16 de noviembre de 2025",
     "tiempo": "33° Domingo del Tiempo Ordinario.",
+    
+    "orden": [
+    "Padre",
+    "entrada",
+    "piedad",
+    "gloria",
+    "aleluya",
+    "salmo",
+    "ofertorio",
+    "santo",
+    "cordero",
+    "comunion",
+    "salida",
+    "Ministro",
+    "entrada 2",
+    "piedad 2",
+    "gloria 2",
+    "aleluya 2",
+    "salmo 2",
+    "ofertorio 2",
+    "comunion 2",
+    "salida 2"
+  ],
+
     "cantos": {
         "Padre": {
             "titulo": "Misa con Padre.",
@@ -86,6 +110,7 @@
     }
 
 }
+
 
 
 
