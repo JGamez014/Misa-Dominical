@@ -1,5 +1,5 @@
-// Cargar cantos desde cantos.json
-fetch("cantos.json")
+// === Cargar cantos desde cantos.json ===
+fetch("cantos.json?" + new Date().getTime())
   .then(res => res.json())
   .then(data => {
     // Mostrar fecha y tiempo litúrgico
@@ -9,30 +9,37 @@ fetch("cantos.json")
     // Contenedor principal de cantos
     const contenedor = document.getElementById("contenedor-cantos");
 
-    // Crear cada sección de canto
-    for (const [seccion, info] of Object.entries(data.cantos)) {
-      const div = document.createElement("div");
-      div.classList.add("canto");
+    // === Crear cada sección de canto (ordenadas alfabéticamente) ===
+    Object.entries(data.cantos)
+      .sort(([a], [b]) => a.localeCompare(b, 'es', { numeric: true }))
+      .forEach(([seccion, info]) => {
+        const div = document.createElement("div");
+        div.classList.add("canto");
 
-      const titulo = document.createElement("h3");
-      titulo.textContent = info.titulo || seccion;
-      titulo.addEventListener("click", () => {
-        const p = div.querySelector("p");
-        p.style.display = p.style.display === "block" ? "none" : "block";
+        // Crear título del canto
+        const titulo = document.createElement("h3");
+        titulo.textContent = info.titulo || seccion;
+
+        // Crear letra del canto
+        const texto = document.createElement("p");
+        texto.innerHTML = info.letra ? info.letra.replace(/\n/g, "<br>") : "";
+        texto.style.display = "none";
+
+        // Mostrar / ocultar letra al hacer clic
+        titulo.addEventListener("click", () => {
+          texto.style.display = texto.style.display === "none" ? "block" : "none";
+        });
+
+        div.appendChild(titulo);
+        div.appendChild(texto);
+        contenedor.appendChild(div);
       });
 
-      const texto = document.createElement("p");
-      texto.innerHTML = info.letra ? info.letra.replace(/\n/g, "<br>") : "";
-
-      div.appendChild(titulo);
-      div.appendChild(texto);
-      contenedor.appendChild(div);
-    }
-
-    // Generar hojas de fondo
+    // Generar hojas animadas
     generarHojas(data.colorLiturgico);
   })
   .catch(err => console.error("Error al cargar cantos.json", err));
+
 
 // === Crear hojas animadas según el color litúrgico ===
 function generarHojas(color) {
