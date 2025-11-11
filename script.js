@@ -10,9 +10,31 @@ fetch("cantos.json?" + new Date().getTime())
     const contenedor = document.getElementById("contenedor-cantos");
 
     // === Crear cada sección de canto en el orden original ===
-    for (const [seccion, info] of Object.entries(data.cantos)) {
-      const div = document.createElement("div");
-      div.classList.add("canto");
+    // === Crear cada sección de canto en el orden definido en el JSON ===
+const orden = data.orden || Object.keys(data.cantos);
+for (const seccion of orden) {
+  const info = data.cantos[seccion];
+  if (!info) continue; // Evitar errores si falta alguno
+
+  const div = document.createElement("div");
+  div.classList.add("canto");
+
+  const titulo = document.createElement("h3");
+  titulo.textContent = info.titulo || seccion;
+
+  const texto = document.createElement("p");
+  texto.innerHTML = info.letra ? info.letra.replace(/\n/g, "<br>") : "";
+  texto.style.display = "none";
+
+  titulo.addEventListener("click", () => {
+    texto.style.display = texto.style.display === "none" ? "block" : "none";
+  });
+
+  div.appendChild(titulo);
+  div.appendChild(texto);
+  contenedor.appendChild(div);
+}
+
 
       // Crear título
       const titulo = document.createElement("h3");
@@ -62,3 +84,4 @@ function generarHojas(color) {
     overlay.appendChild(hoja);
   }
 }
+
