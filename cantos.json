@@ -1,7 +1,7 @@
 {
     "titulo": "Misa Dominical - Capilla del Sagrado Corazón de Jesús",
     "fecha": "16 de noviembre de 2025",
-    "tiempo": "32° Domingo del Tiempo Ordinario. \\nCelebracion con Seminarista.",
+    "tiempo": "33° Domingo del Tiempo Ordinario.",
     "cantos": {
         "Padre": {
             "titulo": "Misa con Padre.",
@@ -86,3 +86,4 @@
     }
 
 }
+
