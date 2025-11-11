@@ -51,40 +51,41 @@
             "titulo": "Celebracion con Ministro de Eucaristia.",
             "letra": "En celebracion con Ministro o Seminarista, el canto de entrada se cambia por Altisimo Señor, se omiten cantos de ofertorio, en su lugar se canta Bendito. Se omiten Santo y Cordero."
         },
-                "entra": {
+        "entrada 2": {
             "titulo": "Entrada",
             "letra": "Altísimo Señor, que supiste juntar. \nA un tiempo en el altar, ser cordero y pastor. \nQuisiera con fervor amar y recibir. \nA quien por mi quizo morir. \nCordero divinal, por nuestro sumo bien. \nInmolado en salem, en tu puro raudal. \nDe gracia celestial, lava mi corazón. \nQue fiel te rinde adoración."
         },
-        "pieda": {
+        "piedad 2": {
             "titulo": "Piedad",
             "letra": "Ten piedad Señor, ten piedad Señor, ten piedad Señor. \nCristo piedad, Cristo piedad, Cristo ten piedad. \nTen piedad Señor, ten piedad Señor, ten piedad Señor."
         },
-        "glori": {
+        "gloria 2": {
             "titulo": "Gloria",
             "letra": "Gloria a Dios en la alturas, y paz, paz en la tierra, a los hombres de buena voluntad.\nTe alabamos, te bendecimos, te adoramos y glorificamos,\nSolo tu eres Santo, solo tu Señor, solo tu altisimo Jesucristo\nGloria al Padre, gloria al Hijo, gloria al espiritu Santificador"
         },
-        "aleluy": {
+        "aleluya 2": {
             "titulo": "Aleluya",
             "letra": "Aleluya, aleluya, aleluya."
         },
-        "sal": {
+        "salmo 2": {
             "titulo": "Salmo",
             "letra": "Toda la tierra, ha visto al Salvador "
         },
-        "oferto": {
+        "ofertorio 2": {
             "titulo": "Ofertorio",
             "letra": "Bendito, bendito, bendito sea Dios, los angeles cantan y alaban a Dios \nYo creo Jesus mio que estas en el altar, oculto en la hostia te vengo Adorar"
         },
-        "comun": {
+        "comunion 2": {
             "titulo": "Comunión",
             "letra": "Oye dulce Jesús mio que en mi pecho vas a entrar. \nYo te espero, yo te ansio, yo te quiero ya abrazar. \nMe mostraste tu cariño, con prodigio sin igual. \nSiendo Dios te hiciste niño, y despues te hiciste pan. \nHoy en pago yo te entrego, cuanto tengo y cuanto soy. \nMis trabajos y mi juego, mi alegria y mi dolor. \nTe consagro mi pureza, la preciosa flor de luz. \nQue retrata tu belleza, rey del cielo mi Jesús. \nNo permitas que el pecado, borre el sello de elección. \nQué en el alma me ha dejado, la visita de mi Dios."
         },
-        "sali": {
+        "salida 2": {
             "titulo": "Salida",
             "letra": "María tú que me llenas de amor. \nEres la luz que me lleva al Señor. \nEn mi cancion te traigo poemas, que nacen de mi. \nEn las mañanas cuando sale el sol. \nVeo tu rostro cerca del Señor. \nEn la estampita que cuelga en el cuadro. \nDe mi habitación. \nDios te salve María, María, María. \nVirgen pura y del parto, y toda la vida. \nEn tus manos ponemos nuestra fé y esperanza. \nMadrecita querida, no te apartes de mi."
         }
     }
 
 }
+
 
 
