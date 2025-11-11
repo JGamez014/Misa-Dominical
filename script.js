@@ -9,31 +9,29 @@ fetch("cantos.json?" + new Date().getTime())
     // Contenedor principal de cantos
     const contenedor = document.getElementById("contenedor-cantos");
 
-    // === Crear cada sección de canto (ordenadas alfabéticamente) ===
-    Object.entries(data.cantos)
-      .sort(([a], [b]) => a.localeCompare(b, 'es', { numeric: true }))
-      .forEach(([seccion, info]) => {
-        const div = document.createElement("div");
-        div.classList.add("canto");
+    // === Crear cada sección de canto en el orden original ===
+    for (const [seccion, info] of Object.entries(data.cantos)) {
+      const div = document.createElement("div");
+      div.classList.add("canto");
 
-        // Crear título del canto
-        const titulo = document.createElement("h3");
-        titulo.textContent = info.titulo || seccion;
+      // Crear título
+      const titulo = document.createElement("h3");
+      titulo.textContent = info.titulo || seccion;
 
-        // Crear letra del canto
-        const texto = document.createElement("p");
-        texto.innerHTML = info.letra ? info.letra.replace(/\n/g, "<br>") : "";
-        texto.style.display = "none";
+      // Crear letra
+      const texto = document.createElement("p");
+      texto.innerHTML = info.letra ? info.letra.replace(/\n/g, "<br>") : "";
+      texto.style.display = "none";
 
-        // Mostrar / ocultar letra al hacer clic
-        titulo.addEventListener("click", () => {
-          texto.style.display = texto.style.display === "none" ? "block" : "none";
-        });
-
-        div.appendChild(titulo);
-        div.appendChild(texto);
-        contenedor.appendChild(div);
+      // Mostrar / ocultar al hacer clic
+      titulo.addEventListener("click", () => {
+        texto.style.display = texto.style.display === "none" ? "block" : "none";
       });
+
+      div.appendChild(titulo);
+      div.appendChild(texto);
+      contenedor.appendChild(div);
+    }
 
     // Generar hojas animadas
     generarHojas(data.colorLiturgico);
