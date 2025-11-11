@@ -6,46 +6,28 @@ fetch("cantos.json?" + new Date().getTime())
     document.getElementById("fecha").textContent = data.fecha;
     document.getElementById("tiempo").textContent = data.tiempo;
 
-    // Contenedor principal de cantos
+    // Contenedor principal
     const contenedor = document.getElementById("contenedor-cantos");
 
-    // === Crear cada sección de canto en el orden original ===
-    // === Crear cada sección de canto en el orden definido en el JSON ===
-const orden = data.orden || Object.keys(data.cantos);
-for (const seccion of orden) {
-  const info = data.cantos[seccion];
-  if (!info) continue; // Evitar errores si falta alguno
+    // === Mantener orden definido en el JSON ===
+    const orden = data.orden || Object.keys(data.cantos);
+    for (const seccion of orden) {
+      const info = data.cantos[seccion];
+      if (!info) continue; // Evitar error si una sección no existe
 
-  const div = document.createElement("div");
-  div.classList.add("canto");
+      const div = document.createElement("div");
+      div.classList.add("canto");
 
-  const titulo = document.createElement("h3");
-  titulo.textContent = info.titulo || seccion;
-
-  const texto = document.createElement("p");
-  texto.innerHTML = info.letra ? info.letra.replace(/\n/g, "<br>") : "";
-  texto.style.display = "none";
-
-  titulo.addEventListener("click", () => {
-    texto.style.display = texto.style.display === "none" ? "block" : "none";
-  });
-
-  div.appendChild(titulo);
-  div.appendChild(texto);
-  contenedor.appendChild(div);
-}
-
-
-      // Crear título
+      // Título del canto
       const titulo = document.createElement("h3");
       titulo.textContent = info.titulo || seccion;
 
-      // Crear letra
+      // Letra del canto
       const texto = document.createElement("p");
       texto.innerHTML = info.letra ? info.letra.replace(/\n/g, "<br>") : "";
       texto.style.display = "none";
 
-      // Mostrar / ocultar al hacer clic
+      // Mostrar / ocultar letra al hacer clic
       titulo.addEventListener("click", () => {
         texto.style.display = texto.style.display === "none" ? "block" : "none";
       });
@@ -84,4 +66,3 @@ function generarHojas(color) {
     overlay.appendChild(hoja);
   }
 }
-
