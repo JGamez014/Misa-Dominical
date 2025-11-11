@@ -1,0 +1,47 @@
+{
+    "titulo": "Misa Dominical - Capilla del Sagrado Corazón de Jesús",
+    "fecha": "09 de noviembre de 2025",
+    "tiempo": "32° Domingo del Tiempo Ordinario. \\nCelebracion con Seminarista.",
+    "cantos": {
+        "entrada": {
+            "titulo": "Altísimo Señor",
+            "letra": "Altísimo Señor, que supiste juntar a un tiempo en el altar, ser cordero y pastor.\nQuisiera con fervor, amar y recibir a quien por mí quiso morir.\nCordero divinal, por nuestro sumo bien inmolado Salem de tu puro raudal.\nDe gracia celestial, lava mi corazon que fiel te rinde adoracion."
+        },
+        "piedad": {
+            "titulo": "Señor ten piedad",
+            "letra": "Señor ten piedad de nosotros, Señor ten piedad.\nCristo ten piedad de nosotros, Cristo ten piedad.\nSeñor ten piedad de nosotros, Señor ten piedad."
+        },
+        "gloria": {
+            "titulo": "Gloria",
+            "letra": "Gloria a Dios en la alturas, y paz, paz en la tierra, a los hombres de buena voluntad.\nTe alabamos, te bendecimos, te adoramos y glorificamos,\nSolo tu eres Santo, solo tu Señor, solo tu altisimo Jesucristo\nGloria al Padre, gloria al Hijo, gloria al espiritu Santificador"
+        },
+        "aleluya": {
+            "titulo": "Aleluya",
+            "letra": "Aleluya, aleluya, aleluya."
+        },
+        "salmo": {
+            "titulo": "Salmo",
+            "letra": "Un rio alegra, a la ciudad de Dios "
+        },
+        "ofertorio": {
+            "titulo": "Ofertorio",
+            "letra": "Bendito, bendito, bendito sea Dios, los angeles cantan y alaban a Dios \nYo creo Jesus mio que estas en el altar, oculto en la hostia te vengo Adorar"
+        },
+        "santo": {
+            "titulo": "Santo ",
+            "letra": "En celebracion con Ministro o Seminarista, no hay canto de Santo "
+        },
+        "cordero": {
+            "titulo": "Cordero ",
+            "letra": "En celebracion con Ministro o Seminarista, no hay canto de Cordero "
+        },
+        "comunion": {
+            "titulo": "Una espiga",
+            "letra": "Una espiga dorada por el Sol, del racimo que corta el viñador. \nSe convierten ahora en pan y vino de amor, en el cuerpo y la sangre del Señor.\nCompartimos la misma comunion, somo trigos del mismo sembrador. \nUn molino la vida nos tritura con dolor, Dios nos hace eucaristia en el amor. \nComo granos que han echo el mismo pan, como notas que tejen un cantar. \nComo gotas de agua que se funden en el mar, los cristianos un cuerpo formaran \nEn la mesa de Dios se sentaran, como hijos su pan comulgaran. \nUna misma esperanza caminando cantaran, en la vida como hermanos se amaran."
+        },
+        "salida": {
+            "titulo": "Demos gracias al Señor",
+            "letra": "Demos gracias al Señor, demos gracias, demos gracias al Señor.\nPor las mañanas, las aves cantan, las alabanzas a Cristo Salvador.\nY por las tardes las flores cantan, las alabanzas a Cristo Salvador.\nY tu amigo porque no cantas, las alabanzas al Crsito Salvador."
+        }
+    }
+}

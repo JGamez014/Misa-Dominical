@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Administración - Misa</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body { background: #f5f5f5; }
+    main { max-width: 800px; margin: 150px auto; background: white; padding: 20px; border-radius: 10px; }
+    input, textarea { width: 100%; margin: 10px 0; padding: 8px; }
+    button { padding: 10px 20px; background: #2d6a4f; color: white; border: none; border-radius: 6px; cursor: pointer; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Panel de administración</h1>
+  </header>
+
+  <main>
+    <div id="login">
+      <input type="password" id="pass" placeholder="Contraseña">
+      <button onclick="login()">Entrar</button>
+    </div>
+
+    <div id="editor" style="display:none;">
+      <input id="fecha" placeholder="Fecha de misa">
+      <input id="tiempo" placeholder="Tiempo litúrgico">
+      <input id="color" placeholder="Color litúrgico (verde, morado, rojo, blanco, dorado)">
+
+      <div id="cantos"></div>
+
+      <button onclick="guardar()">Guardar cambios</button>
+      <pre id="json" style="white-space:pre-wrap;background:#eee;padding:10px;border-radius:6px;margin-top:20px;"></pre>
+    </div>
+  </main>
+
+  <script>
+    const secciones = ["Entrada","Piedad","Gloria","Aleluya","Salmo","Ofertorio","Santo","Cordero","Comunión","Salida"];
+
+    function login() {
+      const clave = document.getElementById('pass').value;
+      if (clave === 'admin1234') {
+        document.getElementById('login').style.display = 'none';
+        document.getElementById('editor').style.display = 'block';
+        cargar();
+      } else alert('Contraseña incorrecta');
+    }
+
+    function cargar() {
+      fetch('cantos.json').then(r=>r.json()).then(d=>{
+        document.getElementById('fecha').value = d.fecha;
+        document.getElementById('tiempo').value = d.tiempo;
+        document.getElementById('color').value = d.colorLiturgico;
+        const div = document.getElementById('cantos');
+        div.innerHTML='';
+        for (const s of secciones) {
+          div.innerHTML += `<label>${s}</label><textarea id="${s}">${d.cantos[s]||''}</textarea>`;
+        }
+      });
+    }
+
+    function guardar() {
+      const salida = {
+        fecha: document.getElementById('fecha').value,
+        tiempo: document.getElementById('tiempo').value,
+        colorLiturgico: document.getElementById('color').value,
+        cantos: {}
+      };
+      for (const s of secciones) {
+        salida.cantos[s] = document.getElementById(s).value;
+      }
+      document.getElementById('json').textContent = JSON.stringify(salida, null, 2);
+      alert('Copia el texto generado y reemplázalo en cantos.json');
+    }
+  </script>
+</body>
+</html>
