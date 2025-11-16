@@ -65,7 +65,7 @@
         },
         "comunion": {
             "titulo": "Comunión",
-            "letra": "Oye dulce Jesús mio que en mi pecho vas a entrar. \nYo te espero, yo te ansio, yo te quiero ya abrazar. \nMe mostraste tu cariño, con prodigio sin igual. \nSiendo Dios te hiciste niño, y despues te hiciste pan. \nHoy en pago yo te entrego, cuanto tengo y cuanto soy. \nMis trabajos y mi juego, mi alegria y mi dolor. \nTe consagro mi pureza, la preciosa flor de luz. \nQue retrata tu belleza, rey del cielo mi Jesús. \nNo permitas que el pecado, borre el sello de elección. \nQué en el alma me ha dejado, la visita de mi Dios."
+            "letra": "Ya no eres pan y vino, ahora que eres cuerpo y sangre vives en mi. \nDe rodillas yo caigo a contemplar tu bondad, como no te voy adorar. \nMientras te pierdes en mis labios, tu gracia va inundando todo mi corazón. \nPor esa paz que me llena de alegria mi ser, como no te voy adorar. \nSeñor Jesús mi salvador, amor eterno, amor divino. \nYa no falta nada lo tengo todo, te tengo a ti. \nDueño y rey del universo, como puede ser posible que busques mi amor. \nTu tan grande y yo pequeño, y te fijas en mi, como no te voy adorar. \nDe rodillas yo te pido, que el día cuando tu me llames, sea como hoy. \nPara mirarte a los ojos y poderte decir, como no te voy adorar."
         },
         "salida": {
             "titulo": "Salida",
@@ -101,7 +101,7 @@
         },
         "comunion 2": {
             "titulo": "Comunión",
-            "letra": "Oye dulce Jesús mio que en mi pecho vas a entrar. \nYo te espero, yo te ansio, yo te quiero ya abrazar. \nMe mostraste tu cariño, con prodigio sin igual. \nSiendo Dios te hiciste niño, y despues te hiciste pan. \nHoy en pago yo te entrego, cuanto tengo y cuanto soy. \nMis trabajos y mi juego, mi alegria y mi dolor. \nTe consagro mi pureza, la preciosa flor de luz. \nQue retrata tu belleza, rey del cielo mi Jesús. \nNo permitas que el pecado, borre el sello de elección. \nQué en el alma me ha dejado, la visita de mi Dios."
+            "letra": "Ya no eres pan y vino, ahora que eres cuerpo y sangre vives en mi. \nDe rodillas yo caigo a contemplar tu bondad, como no te voy adorar. \nMientras te pierdes en mis labios, tu gracia va inundando todo mi corazón. \nPor esa paz que me llena de alegria mi ser, como no te voy adorar. \nSeñor Jesús mi salvador, amor eterno, amor divino. \nYa no falta nada lo tengo todo, te tengo a ti. \nDueño y rey del universo, como puede ser posible que busques mi amor. \nTu tan grande y yo pequeño, y te fijas en mi, como no te voy adorar. \nDe rodillas yo te pido, que el día cuando tu me llames, sea como hoy. \nPara mirarte a los ojos y poderte decir, como no te voy adorar."
         },
         "salida 2": {
             "titulo": "Salida",
@@ -110,6 +110,7 @@
     }
 
 }
+
 
 
 
