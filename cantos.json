@@ -1,7 +1,7 @@
 {
     "titulo": "Misa Dominical - Capilla del Sagrado Corazón de Jesús",
-    "fecha": "16 de noviembre de 2025",
-    "tiempo": "33° Domingo del Tiempo Ordinario.",
+    "fecha": "23 de noviembre de 2025",
+    "tiempo": "34° Domingo del Tiempo Ordinario. \n Nuestro Señor Jesucristo, Rey del Universo",
     
     "orden": [
     "Padre",
@@ -32,16 +32,16 @@
             "letra": "Si la misa es con Padre, continue desplegando sus cantos. \nSi en su lugar viene Ministro, más abajo estan los cantos adecuados."
         },
         "entrada": {
-            "titulo": "Entrada",
-            "letra": "Qué alegria es venir, a la casa de Dios. \nQué alegria es participar, del pan de Dios. \nVengamos todos, a la casa de Dios. \nCantar alegres con un mismo amor."
+            "titulo": "Procesión - Entrada",
+            "letra": "Procesión \nQue viva mi Cristo, que viva mi Rey. \n¡Que impere doquiera, triunfante su ley! \n¡Que impere doquiera, triunfante su ley! \n¡Viva Cristo Rey! ¡Viva Cristo Rey!. \nMexicanos un padre tenemos, que nos dio de la patria la union. \nA ese padre gozosos cantemos, empuñando con fe su pendon. \nDemos gracias al padre que ha echo, que tengamos de herencia la luz. \nY podamos vivir en el reino, que su hijo nos dio por la cruz. \nDios le dio el poder la victoria, pueblos todos venid y alabad. \nA este Rey de los cielos y tierra, en quien solo tenemos la paz. \n \n Entrada \n Que alegria cuando me dijeron, ¡Vamos a la casa del Señor!. \nYa estan pisando nuestros pies, tus umbrales Jerusalen. \nJerusaslen esta fundada como ciudad bien compacta. \n Haya Suben las tribus, las tribus del Señor."
         },
         "piedad": {
             "titulo": "Piedad",
-            "letra": "Ten piedad Señor, ten piedad Señor, ten piedad Señor. \nCristo piedad, Cristo piedad, Cristo ten piedad. \nTen piedad Señor, ten piedad Señor, ten piedad Señor."
+            "letra": "Señor ten piedad de nosotros. \nSeñor ten piedad de nosotros. \nCristo ten piedad de nosotros. \nCristo ten piedad de nosotros. \nSeñor ten piedad de nosotros. \nSeñor ten piedad de nosotros."
         },
         "gloria": {
             "titulo": "Gloria",
-            "letra": "Gloria a Dios en la alturas, y paz, paz en la tierra, a los hombres de buena voluntad.\nTe alabamos, te bendecimos, te adoramos y glorificamos,\nSolo tu eres Santo, solo tu Señor, solo tu altisimo Jesucristo\nGloria al Padre, gloria al Hijo, gloria al espiritu Santificador"
+            "letra": "Gloria, gloria a Dios en el cielo, y en la tierra, a los hombres paz. \nTe alabamos y te bendecimos, te adoramos y glorificamos. \nY nosotros hoy te damos gracias, por tu grande y eterna gloria. \nSeñor Dios nuestro, Padre, Padre, Padre. \nSeñor Dios Hijo, piedad, piedad, piedad Señor. \nTu que quitas el pecado del mundo, escuchanos, escuchanos. \nTu que estas a la derecha del Padre, piedad, piedad, piedad Señor. \nSolo tu eres Santo solo tu Señor, solo tu altisimo Jesucristo. \nCon el Santo espiritu, en la gloria de Dios Padre. \nAmen, amen, amen."
         },
         "aleluya": {
             "titulo": "Aleluya",
@@ -49,43 +49,43 @@
         },
         "salmo": {
             "titulo": "Salmo",
-            "letra": "Toda la tierra, ha visto al Salvador "
+            "letra": "Vayamos con alegria, al encuentro del Señor."
         },
         "ofertorio": {
             "titulo": "Ofertorio",
-            "letra": "Por los niños que empiezan la vida. \nPor los hombres sin techo ni hogar. \nPor los pueblos que sufren la guerra. \nTe ofrecemos el vino y el pan. \nPan y vino sobre el altar. \nSon ofrendas de amor. \nPan y vino serán después. \nTú cuerpo y sangre Señor. \nPor los hombres que viven unidos. \nPor los hombres que buscan la paz. \nPor los pueblos que no te conocen. \nTe ofrecemos el vino y el pan."
+            "letra": "Te presentamos el vino y el pan, \nBendito seas por siempre Señor. \nBendito seas Señor, por este pan que nos diste, \nFruto de la tierra y del trabajp de los hombres. \nBendito seas Señor, el vino tu nos lo diste. \nFruto de la tierra y del trabajo de los hombres."
         },
         "santo": {
             "titulo": "Santo ",
-            "letra": "Santo, santo, santo, oh. Santo es el Señor. \nDios del universo, Dios del universo. \nLlenos están el cielo y la tierra de tu gloria. \nHosana en el cielo, hosana en el cielo. \nBendito el que viene en nombre del Señor. \n Hosana en el cielo, hosana en el cielo. \nSanto, santo, santo, oh. Santo es el Señor\nDios del universo, Dios del universo. \nSanto, santo, santo, oh. \nSanto es el Señor. "
+            "letra": "Santo, Santo, \nSanto es el Señor Dios del universo, \nLlenos estan el cielo y la tierra de tu gloria Hosana. \nHosana, hosana, hosana en el cielo. \nHosana, hosana, hosana en el cielo. \nBendito el que viene en nombre del Señor, \nHosana en el cielo, hosana. \nHosana, hosana, hosana en el cielo. \nHosana, hosana, hosana en el cielo."
         },
         "cordero": {
             "titulo": "Cordero ",
-            "letra": "Cordero de Dios, cordero de Dios. \nQue quitas el pecado del mundo. \nTen piedad de nosotros, ten piedad de nosotros. \nCordero de Dios, cordero de Dios. \nQue quitas el pecado del mundo. \nTen piedad de nosotros, ten piedad de nosotros. \nCordero de Dios, cordero de Dios. \nQue quitas el pecado del mundo. \nDanos la paz, danos la paz. "
+            "letra": "Cordero de Dios que quitas, el pecado del mundo. \nTen piedad de nosotros, ten piedad de nosotros. \nCordero de Dios que quitas, el pecado del mundo. \nTen piedad de nosotros, ten piedad de nosotros. \nCordero de Dios que quitas, el pecado del mundo. \nDanos, danos, danos la paz. \nDanos, danos, danos la paz."
         },
         "comunion": {
             "titulo": "Comunión",
-            "letra": "Ya no eres pan y vino, ahora que eres cuerpo y sangre vives en mi. \nDe rodillas yo caigo a contemplar tu bondad, como no te voy adorar. \nMientras te pierdes en mis labios, tu gracia va inundando todo mi corazón. \nPor esa paz que me llena de alegria mi ser, como no te voy adorar. \nSeñor Jesús mi salvador, amor eterno, amor divino. \nYa no falta nada lo tengo todo, te tengo a ti. \nDueño y rey del universo, como puede ser posible que busques mi amor. \nTu tan grande y yo pequeño, y te fijas en mi, como no te voy adorar. \nDe rodillas yo te pido, que el día cuando tu me llames, sea como hoy. \nPara mirarte a los ojos y poderte decir, como no te voy adorar."
+            "letra": "Rey de reyes, Señor de señores, tres veces Santo, eres amor. \nEs Jesus a quien vine adorar. \nEs Jesus a quien voy a exaltar. \nEs Jesus a quien debo amar. \nEs Jesus el que conmigo esta."
         },
         "salida": {
             "titulo": "Salida",
-            "letra": "María tú que me llenas de amor. \nEres la luz que me lleva al Señor. \nEn mi cancion te traigo poemas, que nacen de mi. \nEn las mañanas cuando sale el sol. \nVeo tu rostro cerca del Señor. \nEn la estampita que cuelga en el cuadro. \nDe mi habitación. \nDios te salve María, María, María. \nVirgen pura y del parto, y toda la vida. \nEn tus manos ponemos nuestra fé y esperanza. \nMadrecita querida, no te apartes de mi."
+            "letra": "Alabare, alabare, alabare, alabare, alabare a mi Señor. \nJuan vio el numero de los redimidos, y todos alababan al Señor. \nUnos cantaban, otros oraban, y todos alababan al Señor. \nAlabare, alabare, alabare, alabare, alabare a mi Señor. \n No hay Dios tan grande como tu, no lo hay, no lo hay. \nNo hay Dios que haga maravillas, como las que haces tu. \nNo con espadas, ni con ejercitos, mas con tu Santo espiritu. \nY esos montes se moveran, y esos montes se moveran, \nY esos montes se moveran, mas con tu Santo espiritu. \nYo tengo un amigo que me ama, me ama, me ama. \nYo tengo un amigo que me ama, su nombre es Jesus. \nQue me ama, que me ama, que me ama, si con tierno amor. \nQue me ama, que me ama, que me ama, su nombre es Jesus. \nTu tienes un amigo que te ama, te ama, te ama. \nTu tienes un amigo que te ama, su nombre es Jesus. \nQue te ama, que te ama, que te ama, si con tierno amor. \nQue te ama, que te ama, que te ama, su nombre es Jesus.\nAlabare, alabare, alabare, alabare, alabare a mi Señor."
         },
         "Ministro": {
             "titulo": "Celebracion con Ministro de Eucaristia.",
             "letra": "En celebracion con Ministro o Seminarista, el canto de entrada se cambia por Altisimo Señor, se omiten cantos de ofertorio, en su lugar se canta Bendito. Se omiten Santo y Cordero."
         },
         "entrada 2": {
-            "titulo": "Entrada",
-            "letra": "Altísimo Señor, que supiste juntar. \nA un tiempo en el altar, ser cordero y pastor. \nQuisiera con fervor amar y recibir. \nA quien por mi quizo morir. \nCordero divinal, por nuestro sumo bien. \nInmolado en salem, en tu puro raudal. \nDe gracia celestial, lava mi corazón. \nQue fiel te rinde adoración."
+            "titulo": "Prosecion - Entrada",
+            "letra": "Procesión \nQue viva mi Cristo, que viva mi Rey. \n¡Que impere doquiera, triunfante su ley! \n¡Que impere doquiera, triunfante su ley! \n¡Viva Cristo Rey! ¡Viva Cristo Rey!. \nMexicanos un padre tenemos, que nos dio de la patria la union. \nA ese padre gozosos cantemos, empuñando con fe su pendon. \nDemos gracias al padre que ha echo, que tengamos de herencia la luz. \nY podamos vivir en el reino, que su hijo nos dio por la cruz. \nDios le dio el poder la victoria, pueblos todos venid y alabad. \nA este Rey de los cielos y tierra, en quien solo tenemos la paz. \n \n Entrada \n Que alegria cuando me dijeron, ¡Vamos a la casa del Señor!. \nYa estan pisando nuestros pies, tus umbrales Jerusalen. \nJerusaslen esta fundada como ciudad bien compacta. \n Haya Suben las tribus, las tribus del Señor."
         },
         "piedad 2": {
             "titulo": "Piedad",
-            "letra": "Ten piedad Señor, ten piedad Señor, ten piedad Señor. \nCristo piedad, Cristo piedad, Cristo ten piedad. \nTen piedad Señor, ten piedad Señor, ten piedad Señor."
+            "letra": "Señor ten piedad de nosotros. \nSeñor ten piedad de nosotros. \nCristo ten piedad de nosotros. \nCristo ten piedad de nosotros. \nSeñor ten piedad de nosotros. \nSeñor ten piedad de nosotros."
         },
         "gloria 2": {
             "titulo": "Gloria",
-            "letra": "Gloria a Dios en la alturas, y paz, paz en la tierra, a los hombres de buena voluntad.\nTe alabamos, te bendecimos, te adoramos y glorificamos,\nSolo tu eres Santo, solo tu Señor, solo tu altisimo Jesucristo\nGloria al Padre, gloria al Hijo, gloria al espiritu Santificador"
+            "letra": "Gloria, gloria a Dios en el cielo, y en la tierra, a los hombres paz. \nTe alabamos y te bendecimos, te adoramos y glorificamos. \nY nosotros hoy te damos gracias, por tu grande y eterna gloria. \nSeñor Dios nuestro, Padre, Padre, Padre. \nSeñor Dios Hijo, piedad, piedad, piedad Señor. \nTu que quitas el pecado del mundo, escuchanos, escuchanos. \nTu que estas a la derecha del Padre, piedad, piedad, piedad Señor. \nSolo tu eres Santo solo tu Señor, solo tu altisimo Jesucristo. \nCon el Santo espiritu, en la gloria de Dios Padre. \nAmen, amen, amen."
         },
         "aleluya 2": {
             "titulo": "Aleluya",
@@ -93,7 +93,7 @@
         },
         "salmo 2": {
             "titulo": "Salmo",
-            "letra": "Toda la tierra, ha visto al Salvador "
+            "letra": "Vayamos con alegria, al encuentro del Señor."
         },
         "ofertorio 2": {
             "titulo": "Ofertorio",
@@ -101,15 +101,16 @@
         },
         "comunion 2": {
             "titulo": "Comunión",
-            "letra": "Ya no eres pan y vino, ahora que eres cuerpo y sangre vives en mi. \nDe rodillas yo caigo a contemplar tu bondad, como no te voy adorar. \nMientras te pierdes en mis labios, tu gracia va inundando todo mi corazón. \nPor esa paz que me llena de alegria mi ser, como no te voy adorar. \nSeñor Jesús mi salvador, amor eterno, amor divino. \nYa no falta nada lo tengo todo, te tengo a ti. \nDueño y rey del universo, como puede ser posible que busques mi amor. \nTu tan grande y yo pequeño, y te fijas en mi, como no te voy adorar. \nDe rodillas yo te pido, que el día cuando tu me llames, sea como hoy. \nPara mirarte a los ojos y poderte decir, como no te voy adorar."
+            "letra": "Rey de reyes, Señor de señores, tres veces Santo, eres amor. \nEs Jesus a quien vine adorar. \nEs Jesus a quien voy a exaltar. \nEs Jesus a quien debo amar. \nEs Jesus el que conmigo esta."
         },
         "salida 2": {
             "titulo": "Salida",
-            "letra": "María tú que me llenas de amor. \nEres la luz que me lleva al Señor. \nEn mi cancion te traigo poemas, que nacen de mi. \nEn las mañanas cuando sale el sol. \nVeo tu rostro cerca del Señor. \nEn la estampita que cuelga en el cuadro. \nDe mi habitación. \nDios te salve María, María, María. \nVirgen pura y del parto, y toda la vida. \nEn tus manos ponemos nuestra fé y esperanza. \nMadrecita querida, no te apartes de mi."
+            "letra": "Alabare, alabare, alabare, alabare, alabare a mi Señor. \nJuan vio el numero de los redimidos, y todos alababan al Señor. \nUnos cantaban, otros oraban, y todos alababan al Señor. \nAlabare, alabare, alabare, alabare, alabare a mi Señor. \n No hay Dios tan grande como tu, no lo hay, no lo hay. \nNo hay Dios que haga maravillas, como las que haces tu. \nNo con espadas, ni con ejercitos, mas con tu Santo espiritu. \nY esos montes se moveran, y esos montes se moveran, \nY esos montes se moveran, mas con tu Santo espiritu. \nYo tengo un amigo que me ama, me ama, me ama. \nYo tengo un amigo que me ama, su nombre es Jesus. \nQue me ama, que me ama, que me ama, si con tierno amor. \nQue me ama, que me ama, que me ama, su nombre es Jesus. \nTu tienes un amigo que te ama, te ama, te ama. \nTu tienes un amigo que te ama, su nombre es Jesus. \nQue te ama, que te ama, que te ama, si con tierno amor. \nQue te ama, que te ama, que te ama, su nombre es Jesus.\nAlabare, alabare, alabare, alabare, alabare a mi Señor."
         }
     }
 
 }
+
 
 
 
