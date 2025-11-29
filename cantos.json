@@ -1,13 +1,13 @@
 {
     "titulo": "Misa Dominical - Capilla del Sagrado Corazón de Jesús",
-    "fecha": "23 de noviembre de 2025",
-    "tiempo": "34° Domingo del Tiempo Ordinario. \n Nuestro Señor Jesucristo, Rey del Universo",
+    "fecha": "30 de noviembre de 2025",
+    "tiempo": "1er Domingo de Adviento",
     
     "orden": [
     "Padre",
     "entrada",
+    "Vela",
     "piedad",
-    "gloria",
     "aleluya",
     "salmo",
     "ofertorio",
@@ -17,8 +17,8 @@
     "salida",
     "Ministro",
     "entrada 2",
+    "Vela 2",
     "piedad 2",
-    "gloria 2",
     "aleluya 2",
     "salmo 2",
     "ofertorio 2",
@@ -32,16 +32,16 @@
             "letra": "Si la misa es con Padre, continue desplegando sus cantos. \nSi en su lugar viene Ministro, más abajo estan los cantos adecuados."
         },
         "entrada": {
-            "titulo": "Procesión - Entrada",
-            "letra": "Procesión \nQue viva mi Cristo, que viva mi Rey. \n¡Que impere doquiera, triunfante su ley! \n¡Que impere doquiera, triunfante su ley! \n¡Viva Cristo Rey! ¡Viva Cristo Rey!. \nMexicanos un padre tenemos, que nos dio de la patria la union. \nA ese padre gozosos cantemos, empuñando con fe su pendon. \nDemos gracias al padre que ha echo, que tengamos de herencia la luz. \nY podamos vivir en el reino, que su hijo nos dio por la cruz. \nDios le dio el poder la victoria, pueblos todos venid y alabad. \nA este Rey de los cielos y tierra, en quien solo tenemos la paz. \n \n Entrada \n Que alegria cuando me dijeron, ¡Vamos a la casa del Señor!. \nYa estan pisando nuestros pies, tus umbrales Jerusalen. \nJerusaslen esta fundada como ciudad bien compacta. \n Haya Suben las tribus, las tribus del Señor."
+            "titulo": "Entrada",
+            "letra": "Ven Señor a nuestra vida. \nQue ya estamos en adviento. \nVenid pronto que te esperamos. \nY salimos a tu encuentro. \nVen Señor a nuestra vida. \nVenga a nosotros tu reino. \n\nLo anunciaron los profetas. \nY lo vieron desde lejos. \nPara cumplir sus promesas. \nVino a salvar a su pueblo."
+        },
+            "Vela": {
+            "titulo": "Encendido de Vela",
+            "letra": "''Primera Vela de Adviento''\n\nHoy se enciende una llama, en la corona de Adviento. \nQue arda nuestra esperanza en el corazon despierto. \nY al calor de la Madre, caminemos este tiempo. \n\nUn primer lucero se enciende. \nAnunciando al rey que viene. \nPreparad corazones. \nAllanense los senderos"
         },
         "piedad": {
             "titulo": "Piedad",
-            "letra": "Señor ten piedad de nosotros. \nSeñor ten piedad de nosotros. \nCristo ten piedad de nosotros. \nCristo ten piedad de nosotros. \nSeñor ten piedad de nosotros. \nSeñor ten piedad de nosotros."
-        },
-        "gloria": {
-            "titulo": "Gloria",
-            "letra": "Gloria, gloria a Dios en el cielo, y en la tierra, a los hombres paz. \nTe alabamos y te bendecimos, te adoramos y glorificamos. \nY nosotros hoy te damos gracias, por tu grande y eterna gloria. \nSeñor Dios nuestro, Padre, Padre, Padre. \nSeñor Dios Hijo, piedad, piedad, piedad Señor. \nTu que quitas el pecado del mundo, escuchanos, escuchanos. \nTu que estas a la derecha del Padre, piedad, piedad, piedad Señor. \nSolo tu eres Santo solo tu Señor, solo tu altisimo Jesucristo. \nCon el Santo espiritu, en la gloria de Dios Padre. \nAmen, amen, amen."
+            "letra": "Señor ten piedad de nosotros. \nSeñor ten piedad de nosotros. \n\nCristo ten piedad de nosotros. \nCristo ten piedad de nosotros. \n\nSeñor ten piedad de nosotros. \nSeñor ten piedad de nosotros."
         },
         "aleluya": {
             "titulo": "Aleluya",
@@ -53,39 +53,39 @@
         },
         "ofertorio": {
             "titulo": "Ofertorio",
-            "letra": "Te presentamos el vino y el pan, \nBendito seas por siempre Señor. \nBendito seas Señor, por este pan que nos diste, \nFruto de la tierra y del trabajp de los hombres. \nBendito seas Señor, el vino tu nos lo diste. \nFruto de la tierra y del trabajo de los hombres."
+            "letra": "Te presentamos el vino y el pan, \nBendito seas por siempre Señor. \n\nBendito seas Señor, por este pan que nos diste, \nFruto de la tierra y del trabajp de los hombres. \n\nBendito seas Señor, el vino tu nos lo diste. \nFruto de la tierra y del trabajo de los hombres."
         },
         "santo": {
             "titulo": "Santo ",
-            "letra": "Santo, Santo, \nSanto es el Señor Dios del universo, \nLlenos estan el cielo y la tierra de tu gloria Hosana. \nHosana, hosana, hosana en el cielo. \nHosana, hosana, hosana en el cielo. \nBendito el que viene en nombre del Señor, \nHosana en el cielo, hosana. \nHosana, hosana, hosana en el cielo. \nHosana, hosana, hosana en el cielo."
+            "letra": "Santo, Santo, \nSanto es el Señor Dios del universo, \nLlenos estan el cielo y la tierra de tu gloria Hosana. \n\nHosana, hosana, hosana en el cielo. \nHosana, hosana, hosana en el cielo. \n\nBendito el que viene en nombre del Señor, \nHosana en el cielo, hosana. \n\nHosana, hosana, hosana en el cielo. \nHosana, hosana, hosana en el cielo."
         },
         "cordero": {
             "titulo": "Cordero ",
-            "letra": "Cordero de Dios que quitas, el pecado del mundo. \nTen piedad de nosotros, ten piedad de nosotros. \nCordero de Dios que quitas, el pecado del mundo. \nTen piedad de nosotros, ten piedad de nosotros. \nCordero de Dios que quitas, el pecado del mundo. \nDanos, danos, danos la paz. \nDanos, danos, danos la paz."
+            "letra": "Cordero de Dios que quitas, el pecado del mundo. \nTen piedad de nosotros, ten piedad de nosotros. \n\nCordero de Dios que quitas, el pecado del mundo. \nTen piedad de nosotros, ten piedad de nosotros. \n\nCordero de Dios que quitas, el pecado del mundo. \nDanos, danos, danos la paz. \nDanos, danos, danos la paz."
         },
         "comunion": {
             "titulo": "Comunión",
-            "letra": "Rey de reyes, Señor de señores, tres veces Santo, eres amor. \nEs Jesus a quien vine adorar. \nEs Jesus a quien voy a exaltar. \nEs Jesus a quien debo amar. \nEs Jesus el que conmigo esta."
+            "letra": "Abre tu tienda al Señor. \nRecibele dentro, escucha su voz. \nAbre tu tienda al Señor. \nPrepara tu fuego, que llega el amor. \n\nEl adviento es esperanza. \nLa esperanza es salvacion. \nYa se acerca el Señor. \nPreparemos los caminos. \nLos caminos del amor. \nEscuchemos su voz."
         },
         "salida": {
             "titulo": "Salida",
-            "letra": "Alabare, alabare, alabare, alabare, alabare a mi Señor. \nJuan vio el numero de los redimidos, y todos alababan al Señor. \nUnos cantaban, otros oraban, y todos alababan al Señor. \nAlabare, alabare, alabare, alabare, alabare a mi Señor. \n No hay Dios tan grande como tu, no lo hay, no lo hay. \nNo hay Dios que haga maravillas, como las que haces tu. \nNo con espadas, ni con ejercitos, mas con tu Santo espiritu. \nY esos montes se moveran, y esos montes se moveran, \nY esos montes se moveran, mas con tu Santo espiritu. \nYo tengo un amigo que me ama, me ama, me ama. \nYo tengo un amigo que me ama, su nombre es Jesus. \nQue me ama, que me ama, que me ama, si con tierno amor. \nQue me ama, que me ama, que me ama, su nombre es Jesus. \nTu tienes un amigo que te ama, te ama, te ama. \nTu tienes un amigo que te ama, su nombre es Jesus. \nQue te ama, que te ama, que te ama, si con tierno amor. \nQue te ama, que te ama, que te ama, su nombre es Jesus.\nAlabare, alabare, alabare, alabare, alabare a mi Señor."
+            "letra": "Un pueblo que camina por el mundo gritando, ¡Ven Señor!. \nUn pueblo que busca en esta vida, la gran liberacion. \n\nLos pobres esperan el amanecer. \nDe un dia mas justo y sin opresion. \nLos pobres hemos puesto la esperanza en ti libertador. \n\nSalvaste nuestra vida de la esclavitud. \nEsclavos de la ley sirviendo en el temor. \nNosotros hemos puesto la esperanza en ti. \nDios del Amor."
         },
         "Ministro": {
             "titulo": "Celebracion con Ministro de Eucaristia.",
             "letra": "En celebracion con Ministro o Seminarista, el canto de entrada se cambia por Altisimo Señor, se omiten cantos de ofertorio, en su lugar se canta Bendito. Se omiten Santo y Cordero."
         },
         "entrada 2": {
-            "titulo": "Prosecion - Entrada",
-            "letra": "Procesión \nQue viva mi Cristo, que viva mi Rey. \n¡Que impere doquiera, triunfante su ley! \n¡Que impere doquiera, triunfante su ley! \n¡Viva Cristo Rey! ¡Viva Cristo Rey!. \nMexicanos un padre tenemos, que nos dio de la patria la union. \nA ese padre gozosos cantemos, empuñando con fe su pendon. \nDemos gracias al padre que ha echo, que tengamos de herencia la luz. \nY podamos vivir en el reino, que su hijo nos dio por la cruz. \nDios le dio el poder la victoria, pueblos todos venid y alabad. \nA este Rey de los cielos y tierra, en quien solo tenemos la paz. \n \n Entrada \n Que alegria cuando me dijeron, ¡Vamos a la casa del Señor!. \nYa estan pisando nuestros pies, tus umbrales Jerusalen. \nJerusaslen esta fundada como ciudad bien compacta. \n Haya Suben las tribus, las tribus del Señor."
+            "titulo": "Entrada",
+            "letra": "Altisimo Señor, que supiste juntar. \nA un tiempo en el altar, ser cordero y pastor. \nQuisiera con fervor, amar y recibir. \nA quien por mi quizo morir. \n\n Cordero divinal, por nuestro sumo bien. \nInmolado en salem, de tu puro raudal. \nDe gracia celestial, lava mi corazon. \nQue fiel te rinde, adoracion."
+        },
+            "Vela 2": {
+            "titulo": "Encendido de Vela",
+            "letra": "''Primera Vela de Adviento''\n\nHoy se enciende una llama, en la corona de Adviento. \nQue arda nuestra esperanza en el corazon despierto. \nY al calor de la Madre, caminemos este tiempo. \n\nUn primer lucero se enciende. \nAnunciando al rey que viene. \nPreparad corazones. \nAllanense los senderos"
         },
         "piedad 2": {
             "titulo": "Piedad",
-            "letra": "Señor ten piedad de nosotros. \nSeñor ten piedad de nosotros. \nCristo ten piedad de nosotros. \nCristo ten piedad de nosotros. \nSeñor ten piedad de nosotros. \nSeñor ten piedad de nosotros."
-        },
-        "gloria 2": {
-            "titulo": "Gloria",
-            "letra": "Gloria, gloria a Dios en el cielo, y en la tierra, a los hombres paz. \nTe alabamos y te bendecimos, te adoramos y glorificamos. \nY nosotros hoy te damos gracias, por tu grande y eterna gloria. \nSeñor Dios nuestro, Padre, Padre, Padre. \nSeñor Dios Hijo, piedad, piedad, piedad Señor. \nTu que quitas el pecado del mundo, escuchanos, escuchanos. \nTu que estas a la derecha del Padre, piedad, piedad, piedad Señor. \nSolo tu eres Santo solo tu Señor, solo tu altisimo Jesucristo. \nCon el Santo espiritu, en la gloria de Dios Padre. \nAmen, amen, amen."
+            "letra": "Señor ten piedad de nosotros. \nSeñor ten piedad de nosotros. \n\nCristo ten piedad de nosotros. \nCristo ten piedad de nosotros. \n\nSeñor ten piedad de nosotros. \nSeñor ten piedad de nosotros."
         },
         "aleluya 2": {
             "titulo": "Aleluya",
@@ -101,15 +101,16 @@
         },
         "comunion 2": {
             "titulo": "Comunión",
-            "letra": "Rey de reyes, Señor de señores, tres veces Santo, eres amor. \nEs Jesus a quien vine adorar. \nEs Jesus a quien voy a exaltar. \nEs Jesus a quien debo amar. \nEs Jesus el que conmigo esta."
+            "letra": "Abre tu tienda al Señor. \nRecibele dentro, escucha su voz. \nAbre tu tienda al Señor. \nPrepara tu fuego, que llega el amor. \n\nEl adviento es esperanza. \nLa esperanza es salvacion. \nYa se acerca el Señor. \nPreparemos los caminos. \nLos caminos del amor. \nEscuchemos su voz."
         },
         "salida 2": {
             "titulo": "Salida",
-            "letra": "Alabare, alabare, alabare, alabare, alabare a mi Señor. \nJuan vio el numero de los redimidos, y todos alababan al Señor. \nUnos cantaban, otros oraban, y todos alababan al Señor. \nAlabare, alabare, alabare, alabare, alabare a mi Señor. \n No hay Dios tan grande como tu, no lo hay, no lo hay. \nNo hay Dios que haga maravillas, como las que haces tu. \nNo con espadas, ni con ejercitos, mas con tu Santo espiritu. \nY esos montes se moveran, y esos montes se moveran, \nY esos montes se moveran, mas con tu Santo espiritu. \nYo tengo un amigo que me ama, me ama, me ama. \nYo tengo un amigo que me ama, su nombre es Jesus. \nQue me ama, que me ama, que me ama, si con tierno amor. \nQue me ama, que me ama, que me ama, su nombre es Jesus. \nTu tienes un amigo que te ama, te ama, te ama. \nTu tienes un amigo que te ama, su nombre es Jesus. \nQue te ama, que te ama, que te ama, si con tierno amor. \nQue te ama, que te ama, que te ama, su nombre es Jesus.\nAlabare, alabare, alabare, alabare, alabare a mi Señor."
+            "letra": "Un pueblo que camina por el mundo gritando, ¡Ven Señor!. \nUn pueblo que busca en esta vida, la gran liberacion. \n\nLos pobres esperan el amanecer. \nDe un dia mas justo y sin opresion. \nLos pobres hemos puesto la esperanza en ti libertador. \n\nSalvaste nuestra vida de la esclavitud. \nEsclavos de la ley sirviendo en el temor. \nNosotros hemos puesto la esperanza en ti. \nDios del Amor."
         }
     }
 
 }
+
 
 
 
