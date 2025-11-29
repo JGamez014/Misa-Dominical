@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: "Segoe UI", sans-serif;
   color: #222;
-  background: url("fondos/otono.jpg") no-repeat center center fixed;
+  background: url("fondos/hoja-morada.png") no-repeat center center fixed;
   background-size: cover;
   overflow-x: hidden;
 }
@@ -79,3 +79,4 @@ main {
   animation: caer linear infinite;
   z-index: 0;
 }
+
