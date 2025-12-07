@@ -33,7 +33,7 @@
         },
         "entrada": {
             "titulo": "Entrada",
-            "letra": "Preparen el camino del Señor. \nPreparen el camino del Señor. \n\nJuan proclama en el desierto, \nYa se oye su pregón, \nCamnien todos hoy sus vidas, \nQue ya viene el Salvador. \n\nVoz de Juan que clama fuerte, \nVengan a pedir perdor, \nDejen todos sus pecados, \nY reciban al Señor."
+            "letra": "Preparen el camino del Señor. \nPreparen el camino del Señor. \n\nJuan proclama en el desierto, \nYa se oye su pregón, \nCambien todos hoy sus vidas, \nQue ya viene el Salvador. \n\nVoz de Juan que clama fuerte, \nVengan a pedir perdon, \nDejen todos sus pecados, \nY reciban al Señor."
         },
             "Vela": {
             "titulo": "Encendido de Vela",
@@ -53,7 +53,7 @@
         },
         "ofertorio": {
             "titulo": "Ofertorio",
-            "letra": "Hemos entregado nuestras vidas al Señor, \nNo hay mayor bendicion que ser de Él, \nHemos entregado nuestras vidas al Señor, \nY Él ahora nos da su vida eterna. \n\nBendito seas Señor, por este pan \nFruto de la tierra y del trabajo del hombre, \nBendito seas Señor, por este vino, \nQue hemos recibido de tu amor yu bondad. \n\nY ahora Señor te presentamos el pan, \nY el vino que tú convertiras, \nEn el cuerpo y sangre de tu Hijo Jesús, \nPan de vida y bebida de salvación."
+            "letra": "Hemos entregado nuestras vidas al Señor, \nNo hay mayor bendicion que ser de Él, \nHemos entregado nuestras vidas al Señor, \nY Él ahora nos da su vida eterna. \n\nBendito seas Señor, por este pan \nFruto de la tierra y del trabajo del hombre, \nBendito seas Señor, por este vino, \nQue hemos recibido de tu amor y bondad. \n\nY ahora Señor te presentamos el pan, \nY el vino que tú convertiras, \nEn el cuerpo y sangre de tu Hijo Jesús, \nPan de vida y bebida de salvación."
         },
         "santo": {
             "titulo": "Santo ",
@@ -69,7 +69,7 @@
         },
         "salida": {
             "titulo": "Salida",
-            "letra": "Ven, ven Señor no tardes, \nVen, ven que te esperamos, \nVen, ven Señor no tardes, \nVen pronto Señor. \n\nEl mundo muere de frio, \nEl alma perdio el calor, \nLos hombres no son hermanos, \nEl mundo no tiene amor. \n\nEnvuelto en sombria noche, \nEl mundo sin paz no ve, \nBuscando va una esperanza, \nBuscando Señor tu fe. \n\nAl mundo le falta vida, \nAl mundo le falta luz, Al mundo le falta el cielo, \nAl mundo le faltas Tú."
+            "letra": "Ven, ven Señor no tardes, \nVen, ven que te esperamos, \nVen, ven Señor no tardes, \nVen pronto Señor. \n\nEl mundo muere de frio, \nEl alma perdio el calor, \nLos hombres no son hermanos, \nEl mundo no tiene amor. \n\nEnvuelto en sombria noche, \nEl mundo sin paz no ve, \nBuscando va una esperanza, \nBuscando Señor tu fe. \n\nAl mundo le falta vida, \nAl mundo le falta luz, \nAl mundo le falta el cielo, \nAl mundo le faltas Tú."
         },
         "Ministro": {
             "titulo": "Celebracion con Ministro de Eucaristia.",
@@ -105,11 +105,12 @@
         },
         "salida 2": {
             "titulo": "Salida",
-            "letra": "Ven, ven Señor no tardes, \nVen, ven que te esperamos, \nVen, ven Señor no tardes, \nVen pronto Señor. \n\nEl mundo muere de frio, \nEl alma perdio el calor, \nLos hombres no son hermanos, \nEl mundo no tiene amor. \n\nEnvuelto en sombria noche, \nEl mundo sin paz no ve, \nBuscando va una esperanza, \nBuscando Señor tu fe. \n\nAl mundo le falta vida, \nAl mundo le falta luz, Al mundo le falta el cielo, \nAl mundo le faltas Tú."
+            "letra": "Ven, ven Señor no tardes, \nVen, ven que te esperamos, \nVen, ven Señor no tardes, \nVen pronto Señor. \n\nEl mundo muere de frio, \nEl alma perdio el calor, \nLos hombres no son hermanos, \nEl mundo no tiene amor. \n\nEnvuelto en sombria noche, \nEl mundo sin paz no ve, \nBuscando va una esperanza, \nBuscando Señor tu fe. \n\nAl mundo le falta vida, \nAl mundo le falta luz, \nAl mundo le falta el cielo, \nAl mundo le faltas Tú."
         }
     }
 
 }
+
 
 
 
