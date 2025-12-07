@@ -1,7 +1,7 @@
 {
     "titulo": "Misa Dominical - Capilla del Sagrado Corazón de Jesús",
-    "fecha": "30 de noviembre de 2025",
-    "tiempo": "1er Domingo de Adviento",
+    "fecha": "07 de Diciembre de 2025",
+    "tiempo": "2° Domingo de Adviento",
     
     "orden": [
     "Padre",
@@ -33,11 +33,11 @@
         },
         "entrada": {
             "titulo": "Entrada",
-            "letra": "Ven Señor a nuestra vida. \nQue ya estamos en adviento. \nVenid pronto que te esperamos. \nY salimos a tu encuentro. \nVen Señor a nuestra vida. \nVenga a nosotros tu reino. \n\nLo anunciaron los profetas. \nY lo vieron desde lejos. \nPara cumplir sus promesas. \nVino a salvar a su pueblo."
+            "letra": "Preparen el camino del Señor. \nPreparen el camino del Señor. \n\nJuan proclama en el desierto, \nYa se oye su pregón, \nCamnien todos hoy sus vidas, \nQue ya viene el Salvador. \n\nVoz de Juan que clama fuerte, \nVengan a pedir perdor, \nDejen todos sus pecados, \nY reciban al Señor."
         },
             "Vela": {
             "titulo": "Encendido de Vela",
-            "letra": "''Primera Vela de Adviento''\n\nHoy se enciende una llama, en la corona de Adviento. \nQue arda nuestra esperanza en el corazon despierto. \nY al calor de la Madre, caminemos este tiempo. \n\nUn primer lucero se enciende. \nAnunciando al rey que viene. \nPreparad corazones. \nAllanense los senderos"
+            "letra": "''Segunda Vela de Adviento''\n\nHoy se enciende una llama, en la corona de Adviento. \nQue arda nuestra esperanza en el corazon despierto. \nY al calor de la Madre, caminemos este tiempo. \n\nCrecen nuestros anhelos al ver, \nLa segunda llama nacer, \nComo dulce rocio, \nVendra el Mesías hecho niño."
         },
         "piedad": {
             "titulo": "Piedad",
@@ -49,11 +49,11 @@
         },
         "salmo": {
             "titulo": "Salmo",
-            "letra": "Vayamos con alegria, al encuentro del Señor."
+            "letra": "Ven Señor, Rey de justicia y de paz"
         },
         "ofertorio": {
             "titulo": "Ofertorio",
-            "letra": "Te presentamos el vino y el pan, \nBendito seas por siempre Señor. \n\nBendito seas Señor, por este pan que nos diste, \nFruto de la tierra y del trabajp de los hombres. \n\nBendito seas Señor, el vino tu nos lo diste. \nFruto de la tierra y del trabajo de los hombres."
+            "letra": "Hemos entregado nuestras vidas al Señor, \nNo hay mayor bendicion que ser de Él, \nHemos entregado nuestras vidas al Señor, \nY Él ahora nos da su vida eterna. \n\nBendito seas Señor, por este pan \nFruto de la tierra y del trabajo del hombre, \nBendito seas Señor, por este vino, \nQue hemos recibido de tu amor yu bondad. \n\nY ahora Señor te presentamos el pan, \nY el vino que tú convertiras, \nEn el cuerpo y sangre de tu Hijo Jesús, \nPan de vida y bebida de salvación."
         },
         "santo": {
             "titulo": "Santo ",
@@ -61,15 +61,15 @@
         },
         "cordero": {
             "titulo": "Cordero ",
-            "letra": "Cordero de Dios que quitas, el pecado del mundo. \nTen piedad de nosotros, ten piedad de nosotros. \n\nCordero de Dios que quitas, el pecado del mundo. \nTen piedad de nosotros, ten piedad de nosotros. \n\nCordero de Dios que quitas, el pecado del mundo. \nDanos, danos, danos la paz. \nDanos, danos, danos la paz."
+            "letra": "Cordero de Dios, que quitas el pecado, \nDel mundo ten piedad, de nosotros ten piedad. \n\nCordero de Dios, que quitas el pecado, \nDel mundo ten piedad, de nosotros ten piedad. \n\nCordero de Dios, que quitas el pecado, \nDel mundo danos paz, danos la paz."
         },
         "comunion": {
             "titulo": "Comunión",
-            "letra": "Abre tu tienda al Señor. \nRecibele dentro, escucha su voz. \nAbre tu tienda al Señor. \nPrepara tu fuego, que llega el amor. \n\nEl adviento es esperanza. \nLa esperanza es salvacion. \nYa se acerca el Señor. \nPreparemos los caminos. \nLos caminos del amor. \nEscuchemos su voz."
+            "letra": "Se acerca el reino de Dios, ya se acerca el reino de Dios, \nSe acerca la salvación, ya se acerca la salvacion. \n\nPreparar los caminos, preparar los caminos al Señor \n\nSalid al encuentro de Dios, \nCon los pobres viene el Señor, \nSalid al encuentro de Dios, \nQue el adviento es salvación. \nPreparar los caminos, preparar los caminos al Señor \n\nHosana, hosana, hosana. \n\nEs hora de despertar, \nQue se acerca la libertad, \nEs hora de despertar, \nQue el Señor nos trae la paz. \n\nEl amor la justicia, son las sendas para la paz. \n\nHosana, hosana, hosana."
         },
         "salida": {
             "titulo": "Salida",
-            "letra": "Un pueblo que camina por el mundo gritando, ¡Ven Señor!. \nUn pueblo que busca en esta vida, la gran liberacion. \n\nLos pobres esperan el amanecer. \nDe un dia mas justo y sin opresion. \nLos pobres hemos puesto la esperanza en ti libertador. \n\nSalvaste nuestra vida de la esclavitud. \nEsclavos de la ley sirviendo en el temor. \nNosotros hemos puesto la esperanza en ti. \nDios del Amor."
+            "letra": "Ven, ven Señor no tardes, \nVen, ven que te esperamos, \nVen, ven Señor no tardes, \nVen pronto Señor. \n\nEl mundo muere de frio, \nEl alma perdio el calor, \nLos hombres no son hermanos, \nEl mundo no tiene amor. \n\nEnvuelto en sombria noche, \nEl mundo sin paz no ve, \nBuscando va una esperanza, \nBuscando Señor tu fe. \n\nAl mundo le falta vida, \nAl mundo le falta luz, Al mundo le falta el cielo, \nAl mundo le faltas Tú."
         },
         "Ministro": {
             "titulo": "Celebracion con Ministro de Eucaristia.",
@@ -81,7 +81,7 @@
         },
             "Vela 2": {
             "titulo": "Encendido de Vela",
-            "letra": "''Primera Vela de Adviento''\n\nHoy se enciende una llama, en la corona de Adviento. \nQue arda nuestra esperanza en el corazon despierto. \nY al calor de la Madre, caminemos este tiempo. \n\nUn primer lucero se enciende. \nAnunciando al rey que viene. \nPreparad corazones. \nAllanense los senderos"
+            "letra": "''Segunda Vela de Adviento''\n\nHoy se enciende una llama, en la corona de Adviento. \nQue arda nuestra esperanza en el corazon despierto. \nY al calor de la Madre, caminemos este tiempo. \n\nCrecen nuestros anhelos al ver, \nLa segunda llama nacer, \nComo dulce rocio, \nVendra el Mesías hecho niño."
         },
         "piedad 2": {
             "titulo": "Piedad",
@@ -93,7 +93,7 @@
         },
         "salmo 2": {
             "titulo": "Salmo",
-            "letra": "Vayamos con alegria, al encuentro del Señor."
+            "letra": "Ven Señor, Rey de justicia y de paz."
         },
         "ofertorio 2": {
             "titulo": "Ofertorio",
@@ -101,15 +101,16 @@
         },
         "comunion 2": {
             "titulo": "Comunión",
-            "letra": "Abre tu tienda al Señor. \nRecibele dentro, escucha su voz. \nAbre tu tienda al Señor. \nPrepara tu fuego, que llega el amor. \n\nEl adviento es esperanza. \nLa esperanza es salvacion. \nYa se acerca el Señor. \nPreparemos los caminos. \nLos caminos del amor. \nEscuchemos su voz."
+            "letra": "Se acerca el reino de Dios, ya se acerca el reino de Dios, \nSe acerca la salvación, ya se acerca la salvacion. \n\nPreparar los caminos, preparar los caminos al Señor \n\nSalid al encuentro de Dios, \nCon los pobres viene el Señor, \nSalid al encuentro de Dios, \nQue el adviento es salvación. \nPreparar los caminos, preparar los caminos al Señor \n\nHosana, hosana, hosana. \n\nEs hora de despertar, \nQue se acerca la libertad, \nEs hora de despertar, \nQue el Señor nos trae la paz. \n\nEl amor la justicia, son las sendas para la paz. \n\nHosana, hosana, hosana."
         },
         "salida 2": {
             "titulo": "Salida",
-            "letra": "Un pueblo que camina por el mundo gritando, ¡Ven Señor!. \nUn pueblo que busca en esta vida, la gran liberacion. \n\nLos pobres esperan el amanecer. \nDe un dia mas justo y sin opresion. \nLos pobres hemos puesto la esperanza en ti libertador. \n\nSalvaste nuestra vida de la esclavitud. \nEsclavos de la ley sirviendo en el temor. \nNosotros hemos puesto la esperanza en ti. \nDios del Amor."
+            "letra": "Ven, ven Señor no tardes, \nVen, ven que te esperamos, \nVen, ven Señor no tardes, \nVen pronto Señor. \n\nEl mundo muere de frio, \nEl alma perdio el calor, \nLos hombres no son hermanos, \nEl mundo no tiene amor. \n\nEnvuelto en sombria noche, \nEl mundo sin paz no ve, \nBuscando va una esperanza, \nBuscando Señor tu fe. \n\nAl mundo le falta vida, \nAl mundo le falta luz, Al mundo le falta el cielo, \nAl mundo le faltas Tú."
         }
     }
 
 }
+
 
 
 
