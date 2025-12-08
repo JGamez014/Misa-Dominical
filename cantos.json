@@ -1,13 +1,13 @@
 {
-    "titulo": "Misa Dominical - Capilla del Sagrado Corazón de Jesús",
-    "fecha": "07 de Diciembre de 2025",
-    "tiempo": "2° Domingo de Adviento",
+    "titulo": "Capilla del Sagrado Corazón de Jesús",
+    "fecha": "12 de Diciembre de 2025",
+    "tiempo": "Nuestra Señora de Guadalupe, Patrona de America",
     
     "orden": [
     "Padre",
     "entrada",
-    "Vela",
     "piedad",
+    "gloria",
     "aleluya",
     "salmo",
     "ofertorio",
@@ -17,8 +17,8 @@
     "salida",
     "Ministro",
     "entrada 2",
-    "Vela 2",
     "piedad 2",
+    "gloria 2",
     "aleluya 2",
     "salmo 2",
     "ofertorio 2",
@@ -33,15 +33,15 @@
         },
         "entrada": {
             "titulo": "Entrada",
-            "letra": "Preparen el camino del Señor. \nPreparen el camino del Señor. \n\nJuan proclama en el desierto, \nYa se oye su pregón, \nCambien todos hoy sus vidas, \nQue ya viene el Salvador. \n\nVoz de Juan que clama fuerte, \nVengan a pedir perdon, \nDejen todos sus pecados, \nY reciban al Señor."
-        },
-            "Vela": {
-            "titulo": "Encendido de Vela",
-            "letra": "''Segunda Vela de Adviento''\n\nHoy se enciende una llama, en la corona de Adviento. \nQue arda nuestra esperanza en el corazon despierto. \nY al calor de la Madre, caminemos este tiempo. \n\nCrecen nuestros anhelos al ver, \nLa segunda llama nacer, \nComo dulce rocio, \nVendra el Mesías hecho niño."
+            "letra": "Desde el cielo una hermosa mañana, \nDesde el cielo una hermosa mañana, \nLa Guadalupana, la Guadalupana, \nLa Guadalupana, bajo al Tepeyac. \n\nSuplicante juntaba sus manos, \nSuplicante juntaba sus manos, \nY eran Mexicanos, y eran Mexicanos, \nY eran Mexicanos su porte y su faz. \n\nSu llegada lleno de alegria, \nSu llegada lleno de alegria, \nDe paz y armonia, de paz y armonia, \nDe paz y armonia todoel Anahuac. \n\nJunto al monte pasaba Juan Diego, \nJunto al monte pasaba Juan Diego, \nY acercose luego, y acercose luego, \nY acercose luego al oir cantar, \n\nLa Guadalupana, la Guadalupana, \nLa Guadalupana bajo al Tepeyac."
         },
         "piedad": {
             "titulo": "Piedad",
             "letra": "Señor ten piedad de nosotros. \nSeñor ten piedad de nosotros. \n\nCristo ten piedad de nosotros. \nCristo ten piedad de nosotros. \n\nSeñor ten piedad de nosotros. \nSeñor ten piedad de nosotros."
+        },
+        "gloria": {
+            "titulo": "Gloria",
+            "letra": "Gloria, gloria, a Dios en el cielo, \nY en la tierra, a los hombres paz. \n\nTe alabamos y te bendecimos, \nTe adoramos y glorificamos, \nY nosotros hoy te damos gracias, \nPor tu grande y eterna gloria. \n\nSeñor Dios nuestro, \nPadre, Padre, Padre, \nSeñor Dios Hijo, \nPiedad Piedad, Piedad Señor, \nTú que quitas el pecado del mundo, \nEscuchanos, Escuchanos, \nTú que estas a la derecha del Padre, \nPiedad Piedad, piedad Señor. \n\nSolo Tú eres Santo, solo Tú Señor, \nSolo tu altisimo Jesucristo, \nCon el Santo Espiritu en la gloria de Dios Padre, \nAmen, amen, amen."
         },
         "aleluya": {
             "titulo": "Aleluya",
@@ -49,11 +49,11 @@
         },
         "salmo": {
             "titulo": "Salmo",
-            "letra": "Ven Señor, Rey de justicia y de paz"
+            "letra": "''Que te alaben Señor, Todos los pueblos'' \n\nTen piedad de nosotros y bendicenos, \nVuelve Señor tus ojos a nosotros, \nQue conozca la tierra tu bondad, \nY los pueblos tu obra salvadora.  R.\n\n Las naciones con jubilo te canten, \nPorque juzgas al mundo con justicia, \nCon equidad tu juzgas a los pueblos, \nY riges en la tierra a las naciones.  R.\n\nQue te alaben Señor, todos los pueblos, \nQue los pueblos te aclamen todos juntos, \nQue nos bendiga Dios, \nY que le rinda honor el mundo entero.  R."
         },
         "ofertorio": {
             "titulo": "Ofertorio",
-            "letra": "Hemos entregado nuestras vidas al Señor, \nNo hay mayor bendicion que ser de Él, \nHemos entregado nuestras vidas al Señor, \nY Él ahora nos da su vida eterna. \n\nBendito seas Señor, por este pan \nFruto de la tierra y del trabajo del hombre, \nBendito seas Señor, por este vino, \nQue hemos recibido de tu amor y bondad. \n\nY ahora Señor te presentamos el pan, \nY el vino que tú convertiras, \nEn el cuerpo y sangre de tu Hijo Jesús, \nPan de vida y bebida de salvación."
+            "letra": "Junto a Maria te presentamos, este vino y este pan, \nNos guia tomando nuestras manos, por el camino de santidad. \n\nOimos la palabra de vida, y en el silencio tu llamar, \nY como ella te respondemos, se haga siempre tu voluntad. \n\n\nBendito seas por siempre Señor, Bendito seas por siempre Señor. \n\nJunto a Maria te presentamos, este vino y este pan, \nQue nuestra vida sea una entrega, atenta siempre a tu voluntad. \n\nPor ella nos hemos congregado, los servidores del Señor, \nHaremos siempre lo que nos digas, como Maria nos enseño. \n\nJunto a maria te presentamos, este vino y este pan, \nQue sera luego tu cuerpo y sangre, tambien tu alma y divinidad. \nEn el dolor estaremos firmes, como maria nos mostro. \nErguida firme junto a la cruz, con una espada en el corazon."
         },
         "santo": {
             "titulo": "Santo ",
@@ -61,15 +61,15 @@
         },
         "cordero": {
             "titulo": "Cordero ",
-            "letra": "Cordero de Dios, que quitas el pecado, \nDel mundo ten piedad, de nosotros ten piedad. \n\nCordero de Dios, que quitas el pecado, \nDel mundo ten piedad, de nosotros ten piedad. \n\nCordero de Dios, que quitas el pecado, \nDel mundo danos paz, danos la paz."
+            "letra": "Cordero de Dios que quitas \nEl pecado del mundo \nTen piedad de nosotros, \nTen piedad de nosotros \n\nCordero de Dios que quitas \nEl pecado del mundo \nTen piedad de nosotros, \nTen piedad de nosotros \n\nCordero de Dios que quitas \nEl pecado del mundo \nDanos la paz, danos la paz,  \nDanos, danos, danos la paz, \nDanos, danos, danos la paz."
         },
         "comunion": {
             "titulo": "Comunión",
-            "letra": "Se acerca el reino de Dios, ya se acerca el reino de Dios, \nSe acerca la salvación, ya se acerca la salvacion. \n\nPreparar los caminos, preparar los caminos al Señor \n\nSalid al encuentro de Dios, \nCon los pobres viene el Señor, \nSalid al encuentro de Dios, \nQue el adviento es salvación. \nPreparar los caminos, preparar los caminos al Señor \n\nHosana, hosana, hosana. \n\nEs hora de despertar, \nQue se acerca la libertad, \nEs hora de despertar, \nQue el Señor nos trae la paz. \n\nEl amor la justicia, son las sendas para la paz. \n\nHosana, hosana, hosana."
+            "letra": "Ya no eres pan y vino, \nAhora que eres cuerpo y sangre, vives en mi, \nDe rodillas yo caigo a contemplar tu bondad, \nComo no te voy a adorar. \n\nMientras te pierdes en mis labios, \nTu gracia va inundando todo mi corazon, \nPor esa paz que me llena de alegria mi ser, \nComo no te voy a adorar. \n\nSeñor Jesus, mi salvador, \nAmor eterno amor divino, \nYa no falta nada lo tengo todo, te tengo a ti. \n\nDueño y Rey del universo, \nComo puede ser posible que busques mi amor, \nTu tan grande y yo pequeño y te fijas en mi, \nComo no te voy a adorar. \n\nDe rodillas yo te pido, \nQue el dia cuando tu me llames,  \nSea como hoy \nPara mirarte a los ojos y poderte decir, \nComo no te voy adorar."
         },
         "salida": {
             "titulo": "Salida",
-            "letra": "Ven, ven Señor no tardes, \nVen, ven que te esperamos, \nVen, ven Señor no tardes, \nVen pronto Señor. \n\nEl mundo muere de frio, \nEl alma perdio el calor, \nLos hombres no son hermanos, \nEl mundo no tiene amor. \n\nEnvuelto en sombria noche, \nEl mundo sin paz no ve, \nBuscando va una esperanza, \nBuscando Señor tu fe. \n\nAl mundo le falta vida, \nAl mundo le falta luz, \nAl mundo le falta el cielo, \nAl mundo le faltas Tú."
+            "letra": "¡Que viva la Virgen de Guadalupe! \nR. ¡Que viva! \n\n¡Que viva la Reina del cielo! \nR. ¡Que viva! \n\n¡Que viva la Madre de los Mexicanos! \nR. ¡Que viva! \n\n\nOh Virgen la mas hermosa, del Valle del Anahuac, \nTus hijos muy de mañana, te vienen a saludar. \n\nDespierta Madre despierta, mira que ya amanecio, \nMira este ramo de flores, que para ti traigo yo. \n\nCuando miro tu carita, llena de tanto candor, \nQuisiera darte mil besos, para mostrarte mi amor. \n\nMadre de los Mexicanos, dijiste venias a ser, \nPues ya lo ves Morenita, si te sabemos querer. \n\nRecibe Madre querida, nuestra felicitacion, \nHoy por ser el dia tan grande, de tu tierna aparicion. \n\nAquella alegre mañana, en que apareciste a Juan, \nMientras Dios me de la vida, nunca se me olvidara. \n\nMira que soy Mexicano, y por eso tuyo soy, \nBusca en vano en el mundo, quien te quiera mas que yo. \n\nRecibe Madre querida, nuestra felicitacion, \nMiranos aqui postrados, y danos tu bendicion. \n\nEnvidia no tengo a nadie, sino al angel que a tus pies, \nHace cuatrocientos años, que te sirve de escabel. \n\nSalve Virgen sin mancilla, de belleza sin igual, \nDe Guadalupe es tu nombre, y trono el Tepeyac. \n\nRecibe Madre querida, nuestra felicitacion, \nMiranos aqui postrados, y danos tu bendicion."
         },
         "Ministro": {
             "titulo": "Celebracion con Ministro de Eucaristia.",
@@ -79,13 +79,13 @@
             "titulo": "Entrada",
             "letra": "Altisimo Señor, que supiste juntar. \nA un tiempo en el altar, ser cordero y pastor. \nQuisiera con fervor, amar y recibir. \nA quien por mi quizo morir. \n\n Cordero divinal, por nuestro sumo bien. \nInmolado en salem, de tu puro raudal. \nDe gracia celestial, lava mi corazon. \nQue fiel te rinde, adoracion."
         },
-            "Vela 2": {
-            "titulo": "Encendido de Vela",
-            "letra": "''Segunda Vela de Adviento''\n\nHoy se enciende una llama, en la corona de Adviento. \nQue arda nuestra esperanza en el corazon despierto. \nY al calor de la Madre, caminemos este tiempo. \n\nCrecen nuestros anhelos al ver, \nLa segunda llama nacer, \nComo dulce rocio, \nVendra el Mesías hecho niño."
-        },
-        "piedad 2": {
+            "piedad 2": {
             "titulo": "Piedad",
             "letra": "Señor ten piedad de nosotros. \nSeñor ten piedad de nosotros. \n\nCristo ten piedad de nosotros. \nCristo ten piedad de nosotros. \n\nSeñor ten piedad de nosotros. \nSeñor ten piedad de nosotros."
+        },
+        "gloria 2": {
+            "titulo": "Gloria",
+            "letra": "Gloria, gloria, a Dios en el cielo, \nY en la tierra, a los hombres paz. \n\nTe alabamos y te bendecimos, \nTe adoramos y glorificamos, \nY nosotros hoy te damos gracias, \nPor tu grande y eterna gloria. \n\nSeñor Dios nuestro, \nPadre, Padre, Padre, \nSeñor Dios Hijo, \nPiedad Piedad, Piedad Señor, \nTú que quitas el pecado del mundo, \nEscuchanos, Escuchanos, \nTú que estas a la derecha del Padre, \nPiedad Piedad, piedad Señor. \n\nSolo Tú eres Santo, solo Tú Señor, \nSolo tu altisimo Jesucristo, \nCon el Santo Espiritu en la gloria de Dios Padre, \nAmen, amen, amen."
         },
         "aleluya 2": {
             "titulo": "Aleluya",
@@ -93,7 +93,7 @@
         },
         "salmo 2": {
             "titulo": "Salmo",
-            "letra": "Ven Señor, Rey de justicia y de paz."
+            "letra": "''Que te alaben Señor, Todos los pueblos'' \n\nTen piedad de nosotros y bendicenos, \nVuelve Señor tus ojos a nosotros, \nQue conozca la tierra tu bondad, \nY los pueblos tu obra salvadora.  R.\n\n Las naciones con jubilo te canten, \nPorque juzgas al mundo con justicia, \nCon equidad tu juzgas a los pueblos, \nY riges en la tierra a las naciones.  R.\n\nQue te alaben Señor, todos los pueblos, \nQue los pueblos te aclamen todos juntos, \nQue nos bendiga Dios, \nY que le rinda honor el mundo entero.  R."
         },
         "ofertorio 2": {
             "titulo": "Ofertorio",
@@ -101,15 +101,16 @@
         },
         "comunion 2": {
             "titulo": "Comunión",
-            "letra": "Se acerca el reino de Dios, ya se acerca el reino de Dios, \nSe acerca la salvación, ya se acerca la salvacion. \n\nPreparar los caminos, preparar los caminos al Señor \n\nSalid al encuentro de Dios, \nCon los pobres viene el Señor, \nSalid al encuentro de Dios, \nQue el adviento es salvación. \nPreparar los caminos, preparar los caminos al Señor \n\nHosana, hosana, hosana. \n\nEs hora de despertar, \nQue se acerca la libertad, \nEs hora de despertar, \nQue el Señor nos trae la paz. \n\nEl amor la justicia, son las sendas para la paz. \n\nHosana, hosana, hosana."
+            "letra": "Ya no eres pan y vino, \nAhora que eres cuerpo y sangre, vives en mi, \nDe rodillas yo caigo a contemplar tu bondad, \nComo no te voy a adorar. \n\nMientras te pierdes en mis labios, \nTu gracia va inundando todo mi corazon, \nPor esa paz que me llena de alegria mi ser, \nComo no te voy a adorar. \n\nSeñor Jesus, mi salvador, \nAmor eterno amor divino, \nYa no falta nada lo tengo todo, te tengo a ti. \n\nDueño y Rey del universo, \nComo puede ser posible que busques mi amor, \nTu tan grande y yo pequeño y te fijas en mi, \nComo no te voy a adorar. \n\nDe rodillas yo te pido, \nQue el dia cuando tu me llames,  \nSea como hoy \nPara mirarte a los ojos y poderte decir, \nComo no te voy adorar."
         },
         "salida 2": {
             "titulo": "Salida",
-            "letra": "Ven, ven Señor no tardes, \nVen, ven que te esperamos, \nVen, ven Señor no tardes, \nVen pronto Señor. \n\nEl mundo muere de frio, \nEl alma perdio el calor, \nLos hombres no son hermanos, \nEl mundo no tiene amor. \n\nEnvuelto en sombria noche, \nEl mundo sin paz no ve, \nBuscando va una esperanza, \nBuscando Señor tu fe. \n\nAl mundo le falta vida, \nAl mundo le falta luz, \nAl mundo le falta el cielo, \nAl mundo le faltas Tú."
-        }
+            "letra": "¡Que viva la Virgen de Guadalupe! \nR. ¡Que viva! \n\n¡Que viva la Reina del cielo! \nR. ¡Que viva! \n\n¡Que viva la Madre de los Mexicanos! \nR. ¡Que viva! \n\n\nOh Virgen la mas hermosa, del Valle del Anahuac, \nTus hijos muy de mañana, te vienen a saludar. \n\nDespierta Madre despierta, mira que ya amanecio, \nMira este ramo de flores, que para ti traigo yo. \n\nCuando miro tu carita, llena de tanto candor, \nQuisiera darte mil besos, para mostrarte mi amor. \n\nMadre de los Mexicanos, dijiste venias a ser, \nPues ya lo ves Morenita, si te sabemos querer. \n\nRecibe Madre querida, nuestra felicitacion, \nHoy por ser el dia tan grande, de tu tierna aparicion. \n\nAquella alegre mañana, en que apareciste a Juan, \nMientras Dios me de la vida, nunca se me olvidara. \n\nMira que soy Mexicano, y por eso tuyo soy, \nBusca en vano en el mundo, quien te quiera mas que yo. \n\nRecibe Madre querida, nuestra felicitacion, \nMiranos aqui postrados, y danos tu bendicion. \n\nEnvidia no tengo a nadie, sino al angel que a tus pies, \nHace cuatrocientos años, que te sirve de escabel. \n\nSalve Virgen sin mancilla, de belleza sin igual, \nDe Guadalupe es tu nombre, y trono el Tepeyac. \n\nRecibe Madre querida, nuestra felicitacion, \nMiranos aqui postrados, y danos tu bendicion."
+        },
     }
 
 }
+
 
 
 
